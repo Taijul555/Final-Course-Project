@@ -1,0 +1,93 @@
+﻿@page "/passenger"
+@inject HttpClient http
+@inject ISnackbar snackbar
+@inject IDialogService DialogService
+
+
+<MudCard class="mt-10">
+    <MudCardHeader>
+        <CardHeaderContent>
+            <MudText Typo="Typo.h6">Passenger List</MudText>
+        </CardHeaderContent>
+        <CardHeaderActions>
+            <MudFab Size="Size.Small" Href="/Passenger/Add" StartIcon="@Icons.Material.Filled.Add" Color="Color.Primary" />
+        </CardHeaderActions>
+    </MudCardHeader>
+    <MudCardContent>
+        @if (this.passenger is null)
+        {
+            <ProgressIndicator />
+        }
+        else
+        {
+            <MudTable Items="@passenger">
+                <HeaderContent>
+                    <MudTh><MudTableSortLabel SortBy="new Func<Passenger, object>(x=>x.Name)">Name</MudTableSortLabel></MudTh>
+                    <MudTh>Email</MudTh>
+                    <MudTh>Phone Number</MudTh>
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd>@context.Name</MudTd>
+                        <MudTd>@context.Email</MudTd>
+                        <MudTd>@context.PhoneNumber</MudTd>
+                        <MudTd>
+                            <MudIconButton Size="Size.Small" Href="@GetLink(context.PassengerId)" ButtonType="ButtonType.Button" Icon="@Icons.Material.Filled.Edit" Variant="Variant.Filled" Color="Color.Primary"></MudIconButton>
+                            <MudIconButton OnClick="@(()=>ConfirmDelete(@context.PassengerId))" Size="Size.Small" ButtonType="ButtonType.Button" Icon="@Icons.Material.Filled.Delete" Variant="Variant.Filled" Color="Color.Warning"></MudIconButton>
+                        </MudTd>
+                    </RowTemplate>
+                    <PagerContent>
+                        <MudTablePager PageSizeOptions="new int[] { 10, 25, 50, 100 }" HorizontalAlignment="HorizontalAlignment.Right" />
+
+                    </PagerContent>
+                </MudTable>
+        }
+    </MudCardContent>
+</MudCard>
+
+
+@code {
+    private List<Passenger>? passenger;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var data =await this.http.GetFromJsonAsync<List<Passenger>>("/api/passengers");
+        if(data is null)
+        {
+            this.snackbar.Configuration.PositionClass = Defaults.Classes.Position.BottomCenter;
+            this.snackbar.Add("Cannot load passenger.", Severity.Error);
+        }
+        else
+        {
+            this.passenger = data;
+        }
+    }
+    private string GetLink(int id)
+    {
+        return $"/Passengers/Edit/{id}";
+    }
+    private async void ConfirmDelete(int id)
+    {
+        var confirm = this.DialogService.Show<ConfirmDialog>();
+        var result = await confirm.Result;
+        if (!result.Canceled)
+        {
+            await DeletePassenger(id);
+        }
+
+    }
+    private async Task DeletePassenger(int id)
+    {
+        var response = await this.http.DeleteAsync($"/api/Passengers/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            if (this.passenger is null) { }
+            else
+            {
+                int index = this.passenger.FindIndex(b => b.PassengerId == id);
+                if (index >= 0) this.passenger.RemoveAt(index);
+                this.StateHasChanged();
+            }
+        }
+    }
+
+}

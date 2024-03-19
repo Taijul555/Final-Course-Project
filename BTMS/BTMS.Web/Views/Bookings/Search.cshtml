@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SearchResultViewModel>
+@using BTMS.BlazorApp.Shared.Models
+@{
+    ViewData["Title"] = "Search";
+}
+
+<div class="row">
+    <div class="col-12">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>
+                        Route
+                    </th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Bus Type</th>
+                    <th>Fare</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model)
+                {
+                    <tr>
+                        <td>@x.From - @x.To</td>
+                        <td>@x.Date?.ToString("yyyy-MM-dd")</td>
+                        <td>@(DateTime.Today.Add(x.Time.Value).ToString("hh:mm tt"))</td>
+                        <td>@((BusType)x.BusType)</td>
+                        <td>@x.Fare.ToString("0.00")</td>
+                        <td>
+                            <a class="btn btn-success btn-sm" asp-controller="Bookings" asp-action="BookSeats" asp-route-id="@x.BusScheduleId" asp-route-busid="@x.BusId">Book</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

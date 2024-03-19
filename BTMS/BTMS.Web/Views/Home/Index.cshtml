@@ -1,0 +1,69 @@
+﻿@model SearchViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <h3>Search Buses</h3>
+        <form asp-action="Search" asp-controller="Bookings" method="post">
+            <div class="form-group row mb-1">
+                <div class="col-3">
+                    <select asp-for="From" asp-items="@(new SelectList(ViewBag.FromList))" class="form-select form-select-sm">
+                        <option value="" selected>From</option>
+                        <span  asp-validation-for="From"></span>
+                    </select>
+                </div>
+                <div class="col-3">
+                    <select asp-for="To" class="form-select form-select-sm">
+                        <option value="" selected>Destination</option>
+                    </select>
+                    <span asp-validation-for="To"></span>
+                </div>
+                <div class="col-3">
+                    <input type="text" asp-for="Date" placeholder="Travel date" class="form-control form-control-sm" />
+                    <span asp-validation-for="To"></span>
+                </div>
+                <div class="col-3">
+                    <button type="submit" class="btn btn-primary btn-sm">Search</button>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="~/libs/datepicker/css/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+}
+@section scripts
+{
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script src="~/libs/validate/jquery.validate.js"></script>
+    <script src="~/libs/validate/jquery.validate.unobtrusive.js"></script>
+    <script src="~/libs/datepicker/js/bootstrap-datepicker.js"></script>
+    <script>
+        $("#Date").datepicker({
+            format: "yyyy-mm-dd"
+        });
+        $("#From").change(function () {
+            var from = $(this).val();
+            $.ajax({
+                type:"get",
+                url: "/Bookings/GetDestination?from="+from,
+                success: r => {
+                    console.log(r);
+                    $("#To").empty();
+                    for (var i = 0; i < r.length; i++) {
+                        $("#To").append(`<option>${r[i]}</option>`)
+                    }
+                    $("#To").append(`<option value="" selected>Destination</option>`)
+
+                }
+            })
+        })
+    </script>
+}
+

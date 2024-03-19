@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder\\BTMS\\BTMS.BlazorApp\\Server\\wwwroot\\Pictures\\3oj3uzfl.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3oj3uzfl.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\BTMS\\BTMS.BlazorApp\\Server\\wwwroot\\Pictures\\anjaeorm.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\anjaeorm.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\BTMS\\BTMS.BlazorApp\\Server\\wwwroot\\Pictures\\bus.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\bus.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\BTMS\\BTMS.BlazorApp\\Server\\wwwroot\\Pictures\\pmhm0rdy.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\pmhm0rdy.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BTMS.BlazorApp.Server.props",
+      "PackagePath": "build\\BTMS.BlazorApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props",
+      "PackagePath": "buildMultiTargeting\\BTMS.BlazorApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BTMS.BlazorApp.Server.props",
+      "PackagePath": "buildTransitive\\BTMS.BlazorApp.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

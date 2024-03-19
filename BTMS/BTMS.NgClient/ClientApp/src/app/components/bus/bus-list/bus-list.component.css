@@ -1,0 +1,53 @@
+.full-card {
+    width: 70%;
+   margin:auto;
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 25px;
+}
+
+.collapsed {
+    height: 0px;
+    min-height: 0;
+}
+
+.expanded {
+    height: auto;
+}
+
+.mat-column-purchaseDetails {
+    border-bottom-width: 0;
+}
+
+.create-button {
+    position: absolute;
+    background: #FAF9F6;
+    top: 0;
+    right: 0;
+    margin-top: 10px;
+    margin-right: 67px;
+    
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.subMenu {
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+.subMenu:hover {
+    background-color: #a9abac;
+    cursor: pointer;
+}
+.home{
+    padding-right: 127px;
+}

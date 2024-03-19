@@ -1,0 +1,37 @@
+﻿@page "/"
+
+
+<div class="carousel" style="padding:0px;margin:0px;box-sizing:border-box">
+    <MudCarousel Class="mud-width-full" Style="height:350px;" ShowArrows="@arrows" ShowBullets="@bullets" EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object">
+        <MudCarouselItem Transition="transition" Color="@Color.Primary">
+            <div class="d-flex justify-content:space-between" style="height:100%">
+                <MudImage Src="Images/1.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/2.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/3.jpg" Alt="Swedish Farm House" />
+            </div>
+        </MudCarouselItem>
+        <MudCarouselItem Transition="transition" Color="@Color.Secondary">
+            <div class="d-flex" style="height:100%">
+                <MudImage Src="Images/4.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/5.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/6.jpg" Alt="Swedish Farm House" />
+            </div>
+        </MudCarouselItem>
+        <MudCarouselItem Transition="transition">
+            <div class="d-flex" style="height:100%">
+                <MudImage Src="Images/7.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/8.jpg" Alt="Swedish Farm House" />
+                <MudImage Src="Images/9.jpg" Alt="Swedish Farm House" />
+            </div>
+        </MudCarouselItem>
+    </MudCarousel>
+</div>
+
+
+@code {
+    private bool arrows = true;
+    private bool bullets = true;
+    private bool enableSwipeGesture = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Slide;
+}

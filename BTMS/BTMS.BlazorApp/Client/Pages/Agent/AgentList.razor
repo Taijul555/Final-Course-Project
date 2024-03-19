@@ -1,0 +1,97 @@
+﻿@page "/agents"
+@inject HttpClient http
+@inject ISnackbar snackbar
+@inject IDialogService DialogService
+
+
+<MudCard class="mt-10">
+    <MudCardHeader>
+        <CardHeaderContent>
+            <MudText Typo="Typo.h6">Agent List</MudText>
+        </CardHeaderContent>
+        <CardHeaderActions>
+            <MudFab Size="Size.Small" Href="/Agent/Add" StartIcon="@Icons.Material.Filled.Add" Color="Color.Primary" />
+        </CardHeaderActions>
+    </MudCardHeader>
+    <MudCardContent>
+        @if (this.agent is null)
+        {
+            <ProgressIndicator />
+        }
+        else
+        {
+            <MudTable Items="@agent">
+                <HeaderContent>
+                    <MudTh><MudTableSortLabel SortBy="new Func<Agent, object>(x=>x.Name)">Name</MudTableSortLabel></MudTh>
+                    <MudTh>Email</MudTh>
+                    <MudTh>Phone Number</MudTh>
+                    <MudTh>Address</MudTh>
+
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd>@context.Name</MudTd>
+                        <MudTd>@context.Email</MudTd>
+                        <MudTd>@context.PhoneNumber</MudTd>
+                        <MudTd>@context.Address</MudTd>
+
+                        <MudTd>
+                            <MudIconButton Size="Size.Small" Href="@GetLink(context.AgentId)" ButtonType="ButtonType.Button" Icon="@Icons.Material.Filled.Edit" Variant="Variant.Filled" Color="Color.Primary"></MudIconButton>
+                            <MudIconButton OnClick="@(()=>ConfirmDelete(@context.AgentId))" Size="Size.Small" ButtonType="ButtonType.Button" Icon="@Icons.Material.Filled.Delete" Variant="Variant.Filled" Color="Color.Warning"></MudIconButton>
+                        </MudTd>
+                    </RowTemplate>
+                    <PagerContent>
+                        <MudTablePager PageSizeOptions="new int[] { 10, 25, 50, 100 }" HorizontalAlignment="HorizontalAlignment.Right" />
+
+                    </PagerContent>
+                </MudTable>
+        }
+    </MudCardContent>
+</MudCard>
+
+
+@code {
+    private List<Agent>? agent;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var data = await this.http.GetFromJsonAsync<List<Agent>>("/api/Agents");
+        if (data is null)
+        {
+            this.snackbar.Configuration.PositionClass = Defaults.Classes.Position.BottomCenter;
+            this.snackbar.Add("Cannot load agents.", Severity.Error);
+        }
+        else
+        {
+            this.agent = data;
+        }
+    }
+    private string GetLink(int id)
+    {
+        return $"/agents/Edit/{id}";
+    }
+    private async void ConfirmDelete(int id)
+    {
+        var confirm = this.DialogService.Show<ConfirmDialog>();
+        var result = await confirm.Result;
+        if (!result.Canceled)
+        {
+            await DeleteAgent(id);
+        }
+
+    }
+    private async Task DeleteAgent(int id)
+    {
+        var response = await this.http.DeleteAsync($"/api/agents/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            if (this.agent is null) { }
+            else
+            {
+                int index = this.agent.FindIndex(b => b.AgentId == id);
+                if (index >= 0) this.agent.RemoveAt(index);
+                this.StateHasChanged();
+            }
+        }
+    }
+
+}

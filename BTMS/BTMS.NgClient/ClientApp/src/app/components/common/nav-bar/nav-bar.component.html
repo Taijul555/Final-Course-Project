@@ -1,0 +1,21 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport [mode]="'over'" [opened]="false">
+    <mat-toolbar class="mat-tool">Menu</mat-toolbar>
+    <ng-material-multilevel-menu [configuration]='config' [items]='navMenu'>
+    </ng-material-multilevel-menu>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()">
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <div class="title-container">
+        <img src="../../../../assets/logoo.ico" alt="Bus Logo" class="logo">
+        <span class="title">GoTicket</span>
+      </div>
+    </mat-toolbar>
+    <div class="container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

@@ -1,0 +1,60 @@
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.deps.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.AssemblyReference.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfo.cs
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\refint\BTMS.BlazorApp.Shared.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\ref\BTMS.BlazorApp.Shared.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.deps.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.AssemblyReference.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfo.cs
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\refint\BTMS.BlazorApp.Shared.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\ref\BTMS.BlazorApp.Shared.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.deps.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.AssemblyReference.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfo.cs
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\refint\BTMS.BlazorApp.Shared.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\ref\BTMS.BlazorApp.Shared.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.deps.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.AssemblyReference.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfo.cs
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\refint\BTMS.BlazorApp.Shared.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\ref\BTMS.BlazorApp.Shared.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.deps.json
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.AssemblyReference.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.AssemblyInfo.cs
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\refint\BTMS.BlazorApp.Shared.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Shared\obj\Debug\net7.0\ref\BTMS.BlazorApp.Shared.dll

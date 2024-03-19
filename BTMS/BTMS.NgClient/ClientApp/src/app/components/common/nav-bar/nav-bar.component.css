@@ -1,0 +1,41 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  height: auto;
+  margin-right: 10px;
+  border-radius: 20px;
+  margin-top: 4px;
+}
+.title {
+  font-family: 'Pacifico', cursive;
+  font-size: 24px;
+  color: #ffffff;
+}
+.mat-tool {
+  background: #5d8ca3;
+  transition: all .5s ease;
+  box-shadow: 0.063rem 0 1.25rem 0 #59709a;
+  
+
+}

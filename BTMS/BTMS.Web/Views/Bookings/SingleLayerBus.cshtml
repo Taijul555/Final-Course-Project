@@ -1,0 +1,118 @@
+﻿@model BusDataViewModel
+@{
+    ViewData["Title"] = "SingleLayerBus";
+}
+
+
+<div class="row">
+    <div class="col-8">
+        <div style="width: 252px;margin:0 auto;" class="border-1">
+            <div class="diver-layout">
+                <div></div>
+                <div class="driver"></div>
+            </div>
+            <div class="bus-layout">
+                @for (var i = 0; i < ViewBag.Labels.Count; i++)
+                {
+
+                    for (var j = 1; j <= 4; j++)
+                    {
+                     
+                            if (Model.Bookings.Any(x => x.SeatNumber == ViewBag.Labels[i].ToString() + j))
+                            {
+                            <span class="seat" id="@(ViewBag.Labels[i].ToString() + j)" data-status="sold" data-seat="@(ViewBag.Labels[i].ToString() + j)">
+                                <i class="bi bi-check-all"></i>
+                            </span>
+                            }
+                            else
+                            {
+                            <span id="@(ViewBag.Labels[i].ToString() + j)" class="seat" data-status="free" data-seat="@(ViewBag.Labels[i].ToString() + j)">
+                                @(ViewBag.Labels[i].ToString() + j)
+                                </span>
+                            }
+
+                       
+                        if (j == 2)
+                        {
+                            <span></span>
+                        }
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>
+@section styles {
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        .bus-layout
+        {
+            display:grid;
+            width:250px;
+            grid-template-columns: 50px 50px 50px 50px 50px;
+            grid-column-gap: 5px;
+            grid-row-gap:3px;
+           
+            
+        }
+        .seat {
+            /*background: url('/Images/seat.png') no-repeat;*/
+            display:flex;
+            width: 48px;
+            height: 48px;
+            border: 1px solid #ccc;
+            background-size: contain;
+            align-items:center;
+            align-items:center;
+            border-radius:.25rem;
+            justify-content:center;
+            justify-items:center;
+            text-align:center;
+            cursor:pointer;
+        }
+
+        .diver-layout{
+            display: grid;
+            width:250px;
+            grid-template-columns: 200px 50px;
+            grid-column-gap: 2px;
+            margin-bottom: 3px;
+        }
+        .driver
+        {
+            background: url('/Images/driver.png') no-repeat;
+            display: flex;
+            width: 48px;
+            height: 48px;
+            border: 1px solid #ccc;
+            background-size: contain;
+            align-items: center;
+            align-items: center;
+            border-radius: .25rem;
+            justify-content: center;
+            justify-items: center;
+            text-align: center;
+        }
+    </style>
+}
+@section scripts
+{
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script>
+        $(".seat").click(function(){
+            let id = $(this).data("seat");
+            let status=$(`#${id}`).data('status');
+            console.log(status)
+            if (status == "sold") return;
+            else if (status == "free") {
+                $(`#${id}`).data('status', 'selected');
+                $(`#${id}`).html(`<i class='bi bi-check2'></i>`)
+            }
+            else {
+                $(`#${id}`).data('status', 'free');
+                $(`#${id}`).text(id);
+            }
+        })
+    </script>
+}
+

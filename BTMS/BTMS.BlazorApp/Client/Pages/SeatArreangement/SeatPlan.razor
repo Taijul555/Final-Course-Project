@@ -1,0 +1,62 @@
+﻿@page "/seatplan"
+
+<div class="seating-container">
+    <div class="content-container">
+        <div class="driver-row">
+            <div class="driver-icon" style="margin-left:85px">
+                <!-- Add your driver wheel icon here -->
+                <MudIcon Icon="@Icons.Custom.Uncategorized.Radioactive" Color="Color.Primary" />
+            </div>
+        </div>
+        <div class="bus-seats">
+            @for (int i = 1; i <= 36; i++)
+            {
+                <div class="seat">
+                    <MudIcon Icon="@Icons.Material.Outlined.EventSeat" Color="Color.Primary" /> <!-- Assuming EventSeat is your seat icon -->
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .seating-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0 auto;
+    }
+
+    .content-container {
+        border: 1px solid blue; /* Add a border around the entire seating arrangement */
+        padding: 10px; /* Adjust the padding for spacing within the container */
+    }
+
+    .driver-row {
+        display: flex;
+        border-bottom: 1px solid blue; /* Add a border at the bottom of the driver row */
+        padding: 10px;
+        margin-bottom: 5px; /* Adjust the margin between driver row and bus seats */
+    }
+
+    .driver-icon {
+        font-size: 24px;
+    }
+
+    .bus-seats {
+        display: grid;
+        grid-template-columns: repeat(4, 25px);
+        gap: 5px; /* Adjust the gap between seats */
+        padding: 8px;
+    }
+
+    .seat {
+        width: 20px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+</style>

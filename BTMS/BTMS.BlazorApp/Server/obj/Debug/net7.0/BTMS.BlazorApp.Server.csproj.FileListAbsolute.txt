@@ -1,0 +1,520 @@
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.staticwebassets.runtime.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.staticwebassets.runtime.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.exe
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.deps.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.runtimeconfig.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\MudBlazor.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.AssemblyReference.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfoInputs.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfo.cs
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CoreCompileInputs.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.BlazorApp.Server.props
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.BlazorApp.Server.props
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\BTMS.BlazorApp.Server.styles.css
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CopyComplete
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\refint\BTMS.BlazorApp.Server.dll
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.genruntimeconfig.cache
+D:\R54\Projects\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\ref\BTMS.BlazorApp.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.staticwebassets.runtime.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.staticwebassets.runtime.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.exe
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.deps.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.runtimeconfig.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\MudBlazor.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.AssemblyReference.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfoInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfo.cs
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CoreCompileInputs.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.BlazorApp.Server.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.BlazorApp.Server.props
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\BTMS.BlazorApp.Server.styles.css
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CopyComplete
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\refint\BTMS.BlazorApp.Server.dll
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.genruntimeconfig.cache
+D:\Module-14 Blazor\Project version 3\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\ref\BTMS.BlazorApp.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.staticwebassets.runtime.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.staticwebassets.runtime.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.exe
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.deps.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.runtimeconfig.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\MudBlazor.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.AssemblyReference.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfoInputs.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfo.cs
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CoreCompileInputs.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.BlazorApp.Server.props
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.BlazorApp.Server.props
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\BTMS.BlazorApp.Server.styles.css
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CopyComplete
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\refint\BTMS.BlazorApp.Server.dll
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.genruntimeconfig.cache
+D:\R54\Akheri\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\ref\BTMS.BlazorApp.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.staticwebassets.runtime.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.staticwebassets.runtime.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.exe
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.deps.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.runtimeconfig.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\MudBlazor.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.AssemblyReference.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfoInputs.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfo.cs
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CoreCompileInputs.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.BlazorApp.Server.props
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.BlazorApp.Server.props
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\BTMS.BlazorApp.Server.styles.css
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CopyComplete
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\refint\BTMS.BlazorApp.Server.dll
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.genruntimeconfig.cache
+D:\BTMS\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\ref\BTMS.BlazorApp.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\appsettings.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.staticwebassets.runtime.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.staticwebassets.runtime.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.exe
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.deps.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.runtimeconfig.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\MudBlazor.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Client.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Server\bin\Debug\net7.0\BTMS.BlazorApp.Shared.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.AssemblyReference.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfoInputs.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.AssemblyInfo.cs
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CoreCompileInputs.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.BTMS.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BTMS.BlazorApp.Server.props
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BTMS.BlazorApp.Server.props
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BTMS.BlazorApp.Server.props
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\BTMS.BlazorApp.Server.styles.css
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.csproj.CopyComplete
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\refint\BTMS.BlazorApp.Server.dll
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.pdb
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\BTMS.BlazorApp.Server.genruntimeconfig.cache
+D:\New folder\BTMS\BTMS.BlazorApp\Server\obj\Debug\net7.0\ref\BTMS.BlazorApp.Server.dll

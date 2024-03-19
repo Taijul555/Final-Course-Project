@@ -1,0 +1,40 @@
+
+<mat-card class="full-card">
+    <mat-card-header>
+        <div mat-card-avatar><img src="../../../../assets/buslogo.png" style="width: 40px;" /></div>
+        <mat-card-title>Buses</mat-card-title>
+        <mat-card-subtitle>List of buses</mat-card-subtitle>
+    </mat-card-header>
+    <div class="create-button">
+        <button mat-raised-button [routerLink]="['/bus-add']" class="menu-button" color="secondary">
+            <mat-icon>add</mat-icon>Create
+        </button>
+    </div>
+    
+    <mat-card-content>
+    <mat-table [dataSource]="dataSource" matSort>
+    
+        <ng-container matColumnDef="name">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Name</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{element.name}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="number">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>BusNumber</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{element.number}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="busType">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Bus Type</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{getTypeName(element.busType)}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="capacity">
+            <mat-header-cell *matHeaderCellDef>Capacity</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{element.capacity}}</mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+        <mat-row *matRowDef="let row;columns: columns"></mat-row>
+    </mat-table>
+    
+    <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+    </mat-card-content>
+    </mat-card>
+    
